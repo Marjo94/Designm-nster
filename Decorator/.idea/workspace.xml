@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b113bc8a-1be4-4cb1-909c-a109daa4c9a2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DHLDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FedExDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Package.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PackageDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PackageImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Bridge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Bridge/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../State/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../State/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,7 +15,7 @@
     <session id="1717716195">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.opened" value="2" />
@@ -108,7 +100,7 @@
         <entry file="file://$PROJECT_DIR$/src/FedExDecorator.java">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="54" lean-forward="true" selection-start-column="54" selection-end-column="54" />
+              <caret column="54" selection-start-column="54" selection-end-column="54" />
               <folding>
                 <element signature="e#161#162#0" expanded="true" />
                 <element signature="e#187#188#0" expanded="true" />
@@ -125,7 +117,7 @@
         <entry file="file://$PROJECT_DIR$/src/PackageImpl.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
-              <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+              <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
               <folding>
                 <element signature="e#90#91#0" expanded="true" />
                 <element signature="e#117#118#0" expanded="true" />
@@ -194,7 +186,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537171379889" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537171402434" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
@@ -238,7 +230,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25302014" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -312,7 +303,7 @@
     <entry file="file://$PROJECT_DIR$/src/FedExDecorator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="54" lean-forward="true" selection-start-column="54" selection-end-column="54" />
+          <caret column="54" selection-start-column="54" selection-end-column="54" />
           <folding>
             <element signature="e#161#162#0" expanded="true" />
             <element signature="e#187#188#0" expanded="true" />
@@ -327,7 +318,7 @@
     <entry file="file://$PROJECT_DIR$/src/PackageImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
           <folding>
             <element signature="e#90#91#0" expanded="true" />
             <element signature="e#117#118#0" expanded="true" />
