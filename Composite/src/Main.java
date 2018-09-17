@@ -21,11 +21,10 @@ public class Main {
         PersonData personDataJenny = new PersonData();
         PersonData personDataJaine = new PersonData();
 
-        headDepartment.addEmployee(new Person(1,"Janne", salesDepartment, personDataJanne));
-        headDepartment.addEmployee(new Person(2,"Jurve", devDepartment, personDataJurve));
-        headDepartment.addEmployee(new Person(3,"Jenny", headDepartment, personDataJenny));
-        headDepartment.addEmployee(new Person(4,"Jaine", financialDepartment, personDataJaine));
-
+        headDepartment.addEmployee(new Person(currentID++,"Janne", salesDepartment, personDataJanne));
+        headDepartment.addEmployee(new Person(currentID++,"Jurve", devDepartment, personDataJurve));
+        headDepartment.addEmployee(new Person(currentID++,"Jenny", headDepartment, personDataJenny));
+        headDepartment.addEmployee(new Person(currentID++,"Jaine", financialDepartment, personDataJaine));
 
         List<Person> employees = headDepartment.getEmployees();
 
