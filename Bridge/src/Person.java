@@ -8,6 +8,6 @@ public abstract class Person {
         this.name = name;
     }
 
-    abstract public void putOnShirt(); //Abstract method to put on a shirt.
+    abstract public void putOnShirt();
 
 }

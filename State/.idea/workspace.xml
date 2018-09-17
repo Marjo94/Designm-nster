@@ -1,42 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d0796049-98bd-4c03-86b9-4f3d420dcc79" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Bridge/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Bridge/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Bridge/src/BlueShirt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Bridge/src/Female.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Bridge/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Bridge/src/Male.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Bridge/src/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Bridge/src/RedShirt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Bridge/src/Shirt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Command/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Command/src/Command.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Command/src/ConsonantsToUpperCaseCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Command/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Command/src/VowelsToUpperCaseCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Command/src/VowelsToWhitespaceCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Command/src/WhitespaceRemovalCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Composite/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DeliveredState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OrderedState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Package.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PackageState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReceivedState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Strategy/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Strategy/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Strategy/src/Context.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Strategy/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Strategy/src/OperationAreaOfParallelogram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Strategy/src/OperationAreaOfSquare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Strategy/src/OperationAreaOfTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Strategy/src/Strategy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Composite/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Composite/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Composite/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Composite/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="d0796049-98bd-4c03-86b9-4f3d420dcc79" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,6 +13,7 @@
     <session id="718826497">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -76,11 +42,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+            <state relative-caret-position="323">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
             </state>
           </provider>
         </entry>
@@ -115,7 +81,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/OrderedState.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
@@ -222,7 +188,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537167526584" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537167529166" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
@@ -313,10 +279,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/DeliveredState.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+        <state relative-caret-position="221">
+          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="79" />
+          <folding>
+            <element signature="e#102#103#0" expanded="true" />
+            <element signature="e#120#121#0" expanded="true" />
+            <element signature="e#202#203#0" expanded="true" />
+            <element signature="e#220#221#0" expanded="true" />
+            <element signature="e#297#298#0" expanded="true" />
+            <element signature="e#378#379#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OrderedState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#100#101#0" expanded="true" />
+            <element signature="e#130#131#0" expanded="true" />
+            <element signature="e#319#320#0" expanded="true" />
+            <element signature="e#398#399#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -346,31 +333,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DeliveredState.java">
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="79" />
-          <folding>
-            <element signature="e#102#103#0" expanded="true" />
-            <element signature="e#120#121#0" expanded="true" />
-            <element signature="e#202#203#0" expanded="true" />
-            <element signature="e#220#221#0" expanded="true" />
-            <element signature="e#297#298#0" expanded="true" />
-            <element signature="e#378#379#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/OrderedState.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="e#100#101#0" expanded="true" />
-            <element signature="e#130#131#0" expanded="true" />
-            <element signature="e#319#320#0" expanded="true" />
-            <element signature="e#398#399#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="323">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>

@@ -4,9 +4,6 @@ public class Male extends Person {
         super(shirt, name);
     }
 
-    /**
-     *
-     */
     @Override
     public void putOnShirt() {
         System.out.print("Puts shirt with color ");
